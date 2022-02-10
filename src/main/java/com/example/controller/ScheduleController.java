@@ -11,7 +11,7 @@ public class ScheduleController {
 
 	@GetMapping("/")
 	public String test() {
-		return "hello";
+		return "";
 		
 	}
 	@PostMapping("/")
